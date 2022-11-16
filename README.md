@@ -6,4 +6,4 @@ and I will have improved on HTML and Git functions
 hopefully by the end of this project!
 
 Self Reflection Section:
-
+I thought it was really fun :)
